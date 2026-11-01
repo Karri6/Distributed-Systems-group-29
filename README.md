@@ -2,7 +2,8 @@
 UH Distributed Systems group project
 
 ### Task
-Build a distributed prototype of at least 3 nodes on separate VMs, to demonstrate shared global state, consistency, and consensus, with ability to scale beyond the 3 nodes.
+- Build a distributed prototype of at least 3 nodes on separate VMs.
+- Goal: demonstrate a shared global state, consistency, and consensus, with the ability to scale beyond the intial 3 nodes.
 _____
 Topic: **TBD**
 
